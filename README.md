@@ -2,11 +2,11 @@
 
 Proyecto: TallerTareas
 
-## Objetivo
-Aplicar POO en Java, desarrollar un CRUD con Spring Boot (MVC) y gestionar el proyecto en GitHub de forma colaborativa.
+# Objetivo
+Aplicacion POO en Java, desarrollando un CRUD con Spring Boot (MVC) y gestionando el proyecto en GitHub de forma colaborativa.
 
 
-## Estructura del proyecto
+# Estructura del proyecto
 ```
 TallerTareas/
 ├─ pom.xml
