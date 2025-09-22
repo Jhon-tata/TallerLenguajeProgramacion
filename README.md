@@ -1,4 +1,4 @@
-# Taller Grupal – CRUD de Tareas (Spring Boot + PostgreSQL)
+# Talles (Spring Boot + PostgreSQL)
 
 Proyecto: TallerTareas
 
